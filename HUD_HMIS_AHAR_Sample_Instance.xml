@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AHARReport xmlns="http://www.hudhdx.info/Resources/Vendors/ahar/2_0_3/HUD_HMIS_AHAR_2_0_3.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.hudhdx.info/Resources/Vendors/ahar/2_0_3/HUD_HMIS_AHAR_2_0_3.xsd http://www.hudhdx.info/Resources/Vendors/ahar/2_0_3/HUD_HMIS_AHAR_2_0_3.xsd">
+<AHARReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.hudhdx.info/Resources/Vendors/ahar/2_0_4/HUD_HMIS_AHAR_2_0_4.xsd  https://raw.githubusercontent.com/hmis-interop/ahar-xml/master/HUD_HMIS_AHAR.xsd" 
+    xmlns="http://www.hudhdx.info/Resources/Vendors/ahar/2_0_4/HUD_HMIS_AHAR_2_0_4.xsd">
     <ContactName>Jane Doe</ContactName>
     <ContinuumName>Some Continuum Name</ContinuumName>
     <DateCompleted>2012-01-01</DateCompleted>
@@ -12,7 +14,8 @@
             <Age_1_5>15</Age_1_5>
             <Age_6_12>1</Age_6_12>
             <Age_13_17>12</Age_13_17>
-            <Age_18_30>35</Age_18_30>
+            <Age_18_24>35</Age_18_24>
+            <Age_25_30>32</Age_25_30>
             <Age_31_50>23</Age_31_50>
             <Age_51_61>12</Age_51_61>
             <Age_62_GE>20</Age_62_GE>
@@ -230,7 +233,8 @@
             <Age_1_5>15</Age_1_5>
             <Age_6_12>1</Age_6_12>
             <Age_13_17>12</Age_13_17>
-            <Age_18_30>35</Age_18_30>
+            <Age_18_24>32</Age_18_24>
+            <Age_25_30>35</Age_25_30>
             <Age_31_50>23</Age_31_50>
             <Age_51_61>12</Age_51_61>
             <Age_62_GE>20</Age_62_GE>
@@ -446,7 +450,8 @@
             <Age_1_5>15</Age_1_5>
             <Age_6_12>1</Age_6_12>
             <Age_13_17>12</Age_13_17>
-            <Age_18_30>35</Age_18_30>
+            <Age_18_24>10</Age_18_24>
+            <Age_25_30>35</Age_25_30>
             <Age_31_50>23</Age_31_50>
             <Age_51_61>12</Age_51_61>
             <Age_62_GE>20</Age_62_GE>
@@ -712,7 +717,8 @@
             <Age_1_5>15</Age_1_5>
             <Age_6_12>1</Age_6_12>
             <Age_13_17>12</Age_13_17>
-            <Age_18_30>35</Age_18_30>
+            <Age_18_24>31</Age_18_24>
+            <Age_25_30>35</Age_25_30>
             <Age_31_50>23</Age_31_50>
             <Age_51_61>12</Age_51_61>
             <Age_62_GE>20</Age_62_GE>
@@ -976,7 +982,8 @@
             <Age_1_5>15</Age_1_5>
             <Age_6_12>1</Age_6_12>
             <Age_13_17>12</Age_13_17>
-            <Age_18_30>35</Age_18_30>
+            <Age_18_24>23</Age_18_24>
+            <Age_25_30>35</Age_25_30>
             <Age_31_50>23</Age_31_50>
             <Age_51_61>12</Age_51_61>
             <Age_62_GE>20</Age_62_GE>
@@ -1163,7 +1170,8 @@
             <Age_1_5>15</Age_1_5>
             <Age_6_12>1</Age_6_12>
             <Age_13_17>12</Age_13_17>
-            <Age_18_30>35</Age_18_30>
+            <Age_18_24>32</Age_18_24>
+            <Age_25_30>35</Age_25_30>
             <Age_31_50>23</Age_31_50>
             <Age_51_61>12</Age_51_61>
             <Age_62_GE>20</Age_62_GE>
